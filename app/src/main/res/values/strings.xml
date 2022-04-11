@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <!--LoginPage Strings -->
+    <string name="login_username_text">Username</string>
+    <string name="login_password_text">Password</string>
+    <string name="login_button_Signin_text">Sign In</string>
+    <string name="login_SignUP_Text">Don\'t have an Account? Sign Up</string>
+    <string name="login_forgot_Password_Text">Forgot Password?</string>
+
+    <!--SignUp Page Strings -->
+
+    <string name="Sign_up_Name_Text">Name</string>
+    <string name="Sign_up_Password_Text">Password</string>
+    <string name="Sign_up_Email_Text">Email</string>
+    <string name="Sign_up_Button_SignUp_Text">Sign Up</string>
+    <string name="Sign_up_AlreadyHaveAnAccount_SignUp_Text">Already Have an Account? Sign In</string>
 </resources>
