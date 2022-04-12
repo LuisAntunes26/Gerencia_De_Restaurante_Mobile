@@ -15,4 +15,18 @@
     <string name="Sign_up_Email_Text">Email</string>
     <string name="Sign_up_Button_SignUp_Text">Sign Up</string>
     <string name="Sign_up_AlreadyHaveAnAccount_SignUp_Text">Already Have an Account? Sign In</string>
+
+    <!--SignUp Page Strings -->
+
+    <string-array name="Category_Menu">
+        
+        <item>BreakFast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Meat</item>
+        <item>Fish</item>
+        <item>Snacks</item>
+        <item>Drinks</item>
+
+    </string-array>
 </resources>
