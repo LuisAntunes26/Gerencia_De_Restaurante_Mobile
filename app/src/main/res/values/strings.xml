@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Five Meals</string>
 
     <!--LoginPage Strings -->
     <string name="login_username_text">Username</string>
@@ -19,7 +19,7 @@
     <!--SignUp Page Strings -->
 
     <string-array name="Category_Menu">
-        
+
         <item>BreakFast</item>
         <item>Lunch</item>
         <item>Dinner</item>
@@ -29,4 +29,8 @@
         <item>Drinks</item>
 
     </string-array>
+
+    <!--Rest Password Page Strings -->
+    <string name="ResetPasswordNextButton">Next</string>
+    <string name="ResetPasswordPreviousButton">Previous</string>
 </resources>

@@ -3,12 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidProject/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/activity_home.xml" value="0.32592592592592595" />
-        <entry key="..\:/AndroidProject/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/activity_launch.xml" value="0.36666666666666664" />
-        <entry key="..\:/AndroidProject/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/AndroidProject/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/activity_sign_up_page.xml" value="0.36666666666666664" />
-        <entry key="..\:/AndroidProject/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/login_activity.xml" value="0.36666666666666664" />
-        <entry key="..\:/AndroidProject/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/vertical_recyclerview_row.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/David capa/AndroidStudioProjects/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/David capa/AndroidStudioProjects/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/David capa/AndroidStudioProjects/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/activity_launch.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/David capa/AndroidStudioProjects/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/activity_sign_up_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/David capa/AndroidStudioProjects/Gerencia_De_Restaurante_Mobile/app/src/main/res/layout/login_activity.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

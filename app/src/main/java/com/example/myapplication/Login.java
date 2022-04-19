@@ -30,5 +30,7 @@ public class Login extends AppCompatActivity {
 
     public void forgotPasswordLogin(View view) {
         //TODO Password Recovery Process
+        Intent intent = new Intent(this,ForgotPasswordActivity.class);
+        startActivity(intent);
     }
 }
