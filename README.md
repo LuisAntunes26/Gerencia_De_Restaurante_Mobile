@@ -25,8 +25,8 @@ O projeto é sobre ...
 * Requisitos 3
 
 ## Lista de Tarefas:
-- [x] Tarefa concluida
-- [ ] Tarefa por concluir
+- [x] LaunchActivity com o Logo da empresa cada vez qua aplicação é iniciada
+- [x] Criação genertica de um layout de Sistema de início de Sessão
 - [ ] Tarefa por concluir
 
 
