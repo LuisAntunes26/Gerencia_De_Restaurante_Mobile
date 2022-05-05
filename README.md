@@ -1,7 +1,7 @@
 # Five Meals
 Segunda parte da disciplina projeto, do curso TWDM 2021/22
 
-![Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZH9R4aIgGy8%2Fmaxresdefault.jpg&f=1&nofb=1)
+![LogoTipoFiveMeals-01](https://user-images.githubusercontent.com/79425111/166903045-81d3276f-b219-4925-91d7-3f8325a36eb6.png )
 
 # Five Meals
 
@@ -15,19 +15,35 @@ O projeto é sobre ...
 
 ## Requesitos
 ### Requesitos Mínimos
-* Requeisitos 1
-* Requisitos 2
-* Requisitos 3
+
+#### Localização Restaurante / Mesa: 
+>
+> - QR CODE;
+> - Manual Code Insert;
+>
+#### RecyclerView
+> 
+> - Nested RecyclerView
+
+#### Room DataBase
+>
+> Local Database;
+
 
 ### Requesitos Avançados
-* Requeisitos 1
+#### Localização Restaurante / Mesa: 
+>
+> - Localização por Mapa para demonstrar a localização do restaurante quando lido o code QR ou Introduzido o codigo da mesa manualmente.
+> - 
+
+
 * Requisitos 2
 * Requisitos 3
 
 ## Lista de Tarefas:
 - [x] Implementação de Layouts no Adobe XD
 - [x] Nested RecyclerView
-- [ ] Tarefa por concluir
+- [ ] Tarefa por concluir: QR code Reader
 
 
 ##Links Importantes
