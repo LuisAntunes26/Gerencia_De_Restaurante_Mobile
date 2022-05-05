@@ -3,7 +3,7 @@ Segunda parte da disciplina projeto, do curso TWDM 2021/22
 
 ![Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZH9R4aIgGy8%2Fmaxresdefault.jpg&f=1&nofb=1)
 
-# Nome do Projeto
+# Five Meals
 
 ## Descrição do Projeto
 
@@ -25,8 +25,8 @@ O projeto é sobre ...
 * Requisitos 3
 
 ## Lista de Tarefas:
-- [x] LaunchActivity com o Logo da empresa cada vez qua aplicação é iniciada
-- [x] Criação genertica de um layout de Sistema de início de Sessão
+- [x] Implementação de Layouts no Adobe XD
+- [x] Nested RecyclerView
 - [ ] Tarefa por concluir
 
 
