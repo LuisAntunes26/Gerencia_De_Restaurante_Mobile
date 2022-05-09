@@ -37,8 +37,6 @@ O projeto é sobre ...
 > - 
 
 
-* Requisitos 2
-* Requisitos 3
 
 ## Lista de Tarefas:
 - [x] Implementação de Layouts no Adobe XD
